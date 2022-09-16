@@ -7,7 +7,7 @@ import pomPages.AddtocartPage;
 import pomPages.SkillraryDemoPage;
 import pomPages.SkillraryPage;
 
-public class Testcase1 extends BaseClass{
+public class skillraryTest extends BaseClass{
 	@Test
 	public void tc1() {
 	SkillraryPage s=new SkillraryPage(driver);

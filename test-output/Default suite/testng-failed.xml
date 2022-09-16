@@ -10,6 +10,13 @@
           <include name="closeApp"/>
         </methods>
       </class> <!-- scripts.Testacse3 -->
+      <class name="Skillrary.Testscripts.skliraryTest">
+        <methods>
+          <include name="openApp"/>
+          <include name="tc3"/>
+          <include name="closeApp"/>
+        </methods>
+      </class> <!-- Skillrary.Testscripts.skliraryTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

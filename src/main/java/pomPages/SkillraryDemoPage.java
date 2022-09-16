@@ -14,8 +14,7 @@ public class SkillraryDemoPage {
 	
 	@FindBy(name="addresstype")
 	private WebElement coursedd;
-	
-	
+		
 	public WebElement getCoursedd() {
 		return coursedd;
 	}

@@ -38,6 +38,13 @@
     <version>3.141.59</version>
 </dependency>
 
+<!-- Lombok-->
+<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.24</version>
+    <scope>provided</scope>
+</dependency>
 <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
